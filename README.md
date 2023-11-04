@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Kerkpower/kerkpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm kerky or sakura!
 
-Here are some ideas to get you started:
+- 💼 I'm currently a student!
+- 🔭 I’m currently working on trying to write better websites
+- 🌱 I’m learning web-dev using basic tools (html, css, js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+The languages I know/am trying to learn
+- :snake: Python
+- HTML
+- :computer: C
+- 🦀 Rust
+
+Thanks for visiting! 😊
